@@ -1,2 +1,1 @@
-# d7-ci
-Pantheon bugbounty POC
+## Pantheon bugbounty POC
